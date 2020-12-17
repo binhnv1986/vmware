@@ -1,4 +1,6 @@
 #lvm.sh nẳm trong /usr/local/bin
+#Crontjob
+#@reboot sh /usr/local/bin/lvm.sh
 #!/bin/bash
 PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 
